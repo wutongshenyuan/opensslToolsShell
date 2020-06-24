@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+*.key
+*.csr
+*.crt
+demoCA
